@@ -78,17 +78,12 @@ Solución de acceso controlado a internet para huéspedes.
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francisco-franquel&show_icons=true&theme=dark)
-
 ---
 
 ## 📫 Contacto
 
-- 📧 Email: tuemail@email.com
-- 💼 LinkedIn: https://linkedin.com/in/tuusuario
-- 🌐 Portafolio: (opcional)
+- 📧 Email: fa.franqueljose@hotmail.com | fa.franqueljose@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/fafranqueljose
 
 ---
 
